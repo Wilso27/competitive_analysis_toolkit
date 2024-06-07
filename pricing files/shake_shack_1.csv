@@ -1,0 +1,53 @@
+Store Name,Category,Product Name,Price,Rating,Number of Reviews,Calories
+Shake Shack,Burgers,Korean BBQ Burger,65.83,81.0,32,690.0
+Shake Shack,Burgers,ShackBurger,7.5,88.0,1040,530.0
+Shake Shack,Burgers,Avocado Bacon Burger,82.5,84.0,174,610.0
+Shake Shack,Burgers,SmokeShack,65.83,90.0,222,610.0
+Shake Shack,Burgers,Veggie Shack,65.83,90.0,11,630.0
+Shake Shack,Burgers,'Shroom Burger,82.5,87.0,130,550.0
+Shake Shack,Burgers,Shack Stack,82.5,91.0,85,800.0
+Shake Shack,Burgers,Hamburger,7.5,87.0,136,400.0
+Shake Shack,Burgers,Cheeseburger,7.5,86.0,399,470.0
+Shake Shack,Burgers,Bacon Cheeseburger,32.5,85.0,110,500.0
+Shake Shack,Burgers,Roadside Double,15.83,78.0,52,850.0
+Shake Shack,Burgers,Grilled Cheese,7.5,75.0,58,350.0
+Shake Shack,Chicken,Korean Style Fried Chicken Sandwich,82.5,84.0,19,600.0
+Shake Shack,Chicken,Avocado Bacon Chicken,74.17,85.0,92,550.0
+Shake Shack,Chicken,Chicken Shack,32.5,88.0,211,590.0
+Shake Shack,Chicken,Chicken Bites,7.5,81.0,319,300.0
+Shake Shack,Crinkle Cut Fries,Spicy Korean BBQ Fries,7.5,91.0,12,740.0
+Shake Shack,Crinkle Cut Fries,Spicy Korean BBQ Cheese Fries,7.5,83.0,6,980.0
+Shake Shack,Crinkle Cut Fries,Fries,7.5,84.0,1290,470.0
+Shake Shack,Crinkle Cut Fries,Cheese Fries,7.5,85.0,503,710.0
+Shake Shack,Crinkle Cut Fries,Bacon Cheese Fries,7.5,84.0,108,840.0
+Shake Shack,Shakes & Frozen Custard,Strawberry Frosted Donut Shake,7.5,,0,850.0
+Shake Shack,Shakes & Frozen Custard,Chocolate Salted Caramel Shake,7.5,,0,1020.0
+Shake Shack,Shakes & Frozen Custard,Peaches and Cream Shake,7.5,,0,860.0
+Shake Shack,Shakes & Frozen Custard,Vanilla Shake,7.5,100.0,23,680.0
+Shake Shack,Shakes & Frozen Custard,Chocolate Shake,7.5,86.0,30,750.0
+Shake Shack,Shakes & Frozen Custard,Cookies and Cream Shake,7.5,90.0,33,850.0
+Shake Shack,Shakes & Frozen Custard,Strawberry Shake,7.5,84.0,19,690.0
+Shake Shack,Shakes & Frozen Custard,Black & White Shake,7.5,70.0,10,770.0
+Shake Shack,Shakes & Frozen Custard,Vanilla & Chocolate Shake,7.5,,0,770.0
+Shake Shack,Shakes & Frozen Custard,Non-Dairy Chocolate Shake,7.5,80.0,5,850.0
+Shake Shack,Shakes & Frozen Custard,Non-Dairy Chocolate Frozen Custard,7.5,,0,400.0
+Shake Shack,Flat-Top Hot Dogs,Hot Dog,7.5,83.0,121,390.0
+Shake Shack,Drinks,Sunset Lemonade,7.5,,0,150.0
+Shake Shack,Drinks,Yuzu Honey Lemonade,7.5,,0,170.0
+Shake Shack,Drinks,Dragonfruit Pomegranate,7.5,100.0,3,170.0
+Shake Shack,Drinks,Shack-made Lemonade,7.5,91.0,58,160.0
+Shake Shack,Drinks,Fifty/Fifty,7.5,88.0,45,80.0
+Shake Shack,Drinks,Organic Iced Tea,7.5,85.0,7,5.0
+Shake Shack,Drinks,Fountain Soda,7.5,84.0,131,0.0
+Shake Shack,Drinks,Draft Root Beer,7.5,87.0,40,170.0
+Shake Shack,Drinks,Organic Apple Juice Drink,7.5,100.0,3,40.0
+Shake Shack,Drinks,Shack2O Water,7.5,100.0,14,
+Shake Shack,Drinks,Sparkling Shack2O Water,7.5,100.0,7,
+Shake Shack,Retail,Bag O' Bones,74.17,100.0,9,
+Shake Shack,Large Orders,ShackBurger Box - 12 servings,0.16,,0,500.0
+Shake Shack,Large Orders,Crinkle Cut Box - 12 Servings,74.17,,0,470.0
+Shake Shack,Large Orders,Chicken Shack Box - 12 servings,0.83,,0,550.0
+Shake Shack,Large Orders,Veggie Shack™ Box - 12 servings,0.16,,0,630.0
+Shake Shack,Large Orders,'Shroom Burger Box - 12 servings,0.49,,0,510.0
+Shake Shack,Large Orders,Cheeseburger Box - 12 servings,0.49,,0,440.0
+Shake Shack,Large Orders,Hamburger Box - 12 servings,0.33,,0,370.0
