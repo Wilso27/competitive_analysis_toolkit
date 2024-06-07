@@ -1,7 +1,15 @@
+# Packages
 Driver_Notes
 Open_Sans
+
+# Scraped Data
 budget files
 images
 places files
 pricing files
+
+# Environment variables 
 .env
+
+# Misc
+__pycache__
