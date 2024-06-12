@@ -7,6 +7,9 @@ budget files
 images
 places files
 pricing files
+npy_files/
+test_files/
+*.npy
 
 # Environment variables 
 .env
