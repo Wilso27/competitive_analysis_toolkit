@@ -605,7 +605,7 @@ def extract_product_info(url, store_name, headless):
                 rating_percentage = None
                 num_reviews = 0
                 
-                # Check if the current text begins with "USD" or "$"
+                # Check if the current text begins with a price indicator like "USD", "$", or "MX$"
                 if not re.match(price_pattern, price):  # Check if the str matches the price pattern
                                         
                     # Convert price to float
